@@ -27,8 +27,8 @@
 - 🔊 Чище звук
 
 
-## 📥 Скачать
+## 📥 Скачать(Download)
 
 [**radio_scanner.fap**](https://github.com/ValeraVvV/Flipper-Zero-Radio-Scanner/raw/main/radio_scanner.fap)
 
-*Скопируйте файл в папку `apps` на SD-карте Flipper Zero*
+*Скопируйте файл в папку `apps/subghz/` на SD-карте Flipper Zero*

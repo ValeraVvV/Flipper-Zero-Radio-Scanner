@@ -4,5 +4,5 @@
 Дополнения и изменения:
 при запуске запрашивается стартовая частота 
 
-!(screenshots/Screenshot_s.png)
-![Описание скриншота 2](screenshots/название_твоего_файла2.png)
+![](screenshots/Screenshot_s.png)
+![](screenshots/Screenshot-antena.png)

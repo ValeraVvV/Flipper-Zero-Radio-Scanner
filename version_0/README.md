@@ -12,14 +12,14 @@
 ### 1. Стартовая частота
 При запуске приложения запрашивается начальная частота сканирования
 
-![](screenshots/Screenshot_s.png)
+![](https://raw.githubusercontent.com/ValeraVvV/Flipper-Zero-Radio-Scanner/main/screenshots/Screenshot_s.png)
 
 *Возможность пропустить и использовать значение по умолчанию*
 
 ### 2. Выбор антенны
 Добавлен запрос используемой антенны перед началом работы
 
-![](screenshots/Screenshot-antena.png)
+![](https://raw.githubusercontent.com/ValeraVvV/Flipper-Zero-Radio-Scanner/main/screenshots/Screenshot-antena.png)
 
 ⚠️ **Известная проблема:** При выборе внешней антенны без её физического подключения происходит сбой приложения
 
@@ -30,8 +30,8 @@
 - 🔊 Чище звук
 
 
-## 📥 Скачать(Download)
+## 📥 Скачать version_0 (Download)
 
-[**radio_scanner.fap**](https://github.com/ValeraVvV/Flipper-Zero-Radio-Scanner/raw/main/radio_scanner.fap)
+[**radio_scanner.fap**](https://github.com/ValeraVvV/Flipper-Zero-Radio-Scanner/raw/main/version_0/radio_scanner.fap)
 
 *Скопируйте файл в папку `apps/subghz/` на SD-карт

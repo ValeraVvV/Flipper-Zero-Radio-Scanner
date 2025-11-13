@@ -27,7 +27,7 @@
 !!! напоминаю , что звук включается/выключается при длительном нажатии вверх
 
 
-## 📥 Скачать version new (Download)
+## 📥 Скачать version new (Download):
 
 [**radio_scanner.fap**](https://github.com/ValeraVvV/Flipper-Zero-Radio-Scanner/raw/main/version_1/radio_scanner.fap)
 

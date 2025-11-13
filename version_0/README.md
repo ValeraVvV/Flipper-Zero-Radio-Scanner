@@ -1,3 +1,6 @@
+# Начальная версия# 
+
+
 # Модификация приложения "Радио Сканер" для Flipper Zero
 
 > Основано на [Flipper-Zero-Radio-Scanner](https://github.com/RocketGod-git/Flipper-Zero-Radio-Scanner) от RocketGod-git
